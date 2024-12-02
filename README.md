@@ -2,9 +2,20 @@
 
 AlwaysUp enables any application (32/64-bit executable, batch file, Java/JAR, Python script, etc.) to run as a Windows Service, ensuring uninterrupted 24/7 availability by constantly monitoring its status. It automatically launches your application when the computer boots, restarts it if it crashes, hangs, or consumes excessive memory, and works tirelessly to maintain uptime. Additionally, detailed email alerts from AlwaysUp keep you updated on performance, crashes, scheduled restarts, and other crucial events.
 
+<div align="center">
+<img src="https://www.coretechnologies.com/blog/images/alwaysup-managing-many-applications.png" width="700">
+</div>
+
 Running your application as a Windows Service means it can start automatically without requiring user logins, continue running through logons and logoffs, and operate entirely without manual input. No coding knowledge is necessary.
 
 With years of refinement and thousands of installations across diverse systems, AlwaysUp has proven itself a trusted and reliable solution for businesses of all sizes worldwide.
+
+<div align="center">
+<a href = "https://tinyurl.com/27mmnyf2">
+<img align = "center" src="https://github.com/user-attachments/assets/b2ad17c6-f82a-49b1-94f9-302651b7b5d3"
+" width="300" >
+</a>
+</div>
 
 ## Key Features and Benefits
 - **24/7 Application Uptime:** Ensures any application (.exe, batch file, script, Java, PHP, etc.) runs without interruption.
